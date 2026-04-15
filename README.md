@@ -9,3 +9,4 @@ This project was created as part of the Git & GitHub Lab.
 ## Purpose
 To learn how to:
 - Create a GitHub repositoryS
+- Learn how to use Git status
